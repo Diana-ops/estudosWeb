@@ -1,0 +1,70 @@
+.table-card{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr); /*Defind 2 columns*/
+	list-style-type: none;
+}
+
+.betsMovies {
+	color: black;
+	justify-content: center;
+}
+
+.title-6, .span{
+	font-style: 50px;
+} 
+
+span {
+	color: blue;
+}
+
+.div-input {
+	background-color: #c1183b;
+}
+
+input {
+	height: 10%;
+
+	padding: 1%;
+
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: 30%;
+	margin-right:  30%;
+
+	border-color: gray;
+	background-color: #c1183b;
+
+	border-top-color: transparent;
+	border-left-color: transparent;
+	border-right-color: transparent;
+
+	border-bottom-width: 1.5px;
+
+}
+
+@media (max-width: 500px){
+	.table-card{
+		grid-template-columns: repeat(1, 1fr); /*Defind 2 columns*/
+	}
+
+}
+
+@media (min-width: 501px){
+	.table-card{
+		grid-template-columns: repeat(2, 1fr); /*Defind 2 columns*/
+	}
+
+	input {
+		width: 50%;
+		margin-left: 22%;
+		margin-right: 22%;
+		margin-bottom: 5%;
+	}
+}
+
+@media (min-width: 1200px){
+	.table-card{
+		grid-template-columns: repeat(4, 1fr); /*Defind 2 columns*/
+	}
+}
+
