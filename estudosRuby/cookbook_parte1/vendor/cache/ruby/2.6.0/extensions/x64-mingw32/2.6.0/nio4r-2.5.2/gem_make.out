@@ -1,0 +1,14 @@
+current directory: C:/Users/Diana/Documents/estudosWeb/estudosRuby/cookbook_parte1/vendor/cache/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
+C:/Ruby26-x64/bin/ruby.exe -I C:/Ruby26-x64/lib/ruby/2.6.0 -r ./siteconf20200324-4712-9lu2th.rb extconf.rb
+
+current directory: C:/Users/Diana/Documents/estudosWeb/estudosRuby/cookbook_parte1/vendor/cache/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
+make "DESTDIR=" clean
+make: *** No rule to make target 'clean'.  Pare.
+
+current directory: C:/Users/Diana/Documents/estudosWeb/estudosRuby/cookbook_parte1/vendor/cache/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: C:/Users/Diana/Documents/estudosWeb/estudosRuby/cookbook_parte1/vendor/cache/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
+make "DESTDIR=" install
+make: Nothing to be done for 'install'.
