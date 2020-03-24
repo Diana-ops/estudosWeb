@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn&display=swap');
+
+.section {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+
+	background-color: white;
+}
+
+.img{
+	width: 200%; 
+	
+}
+
+a {
+	text-decoration: none;
+	color: red;
+	margin-left: 15%;
+}
+
+span {
+	color: yellow;
+}
+@media screen and (max-width: 750px){
+	.section {
+		grid-template-columns: 1fr;
+	}
+
+
+	.img, a {
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.title {
+		text-align: center;
+		justify-content: center;
+	}
+
+	.img {
+		width: 100%;
+	}
+
+
+}
