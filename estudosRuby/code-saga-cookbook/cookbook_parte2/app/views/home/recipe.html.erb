@@ -1,0 +1,7 @@
+<%= form_for Recipe.new do | recipe | %>
+	<%= f.h1 :title %>
+	<%= f.li :recipe_type %>
+	<%= f.li :cuisine %>
+	<%= f.li :difficulty %>
+	<%= f.li "#{recipe.cook_time} minutos" %>
+<% end %>

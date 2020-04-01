@@ -1,0 +1,12 @@
+<h1><%= @recipes.title %></h1>
+	<h3>Detalhes</h3>
+		<p><%= @recipes.recipe_type %></p>
+		<p><%= @recipes.cuisine %></p>
+		<p><%= @recipes.difficulty %></p>
+		<p><%= "#{@recipes.cook_time} minutos" %></p>
+	<h3>Ingredientes</h3>
+			<p><%= @recipes.ingredients %></p>
+	<h3>Como Preparar</h3>
+			<p><%= @recipes.cook_method %></p
+
+<button><%= link_to "Voltar", root_path %></button>

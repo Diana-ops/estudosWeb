@@ -1,0 +1,12 @@
+<h1>Bem vindo ao Task-List</h1>
+<p>Sua lista de tarefas</p>
+<em>Data: <%= Date.today %></em>
+
+<% @tasks.each do |task| %>
+	<%= task.descrition%>
+
+	<%= link_to 'Editar', edit_task_path(task) %>
+	<%= link_to 'Apagar', task_path(task), method: :delete, 
+		data: { confirm: 'Quer apagar esta tarefa?'}
+	%>
+<% end %>

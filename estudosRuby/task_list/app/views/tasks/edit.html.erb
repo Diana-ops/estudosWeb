@@ -1,0 +1,7 @@
+<%= form_for @task do | f | %>
+	<%= f.label :descrition, 'Descrição' %>
+	<%= f.text_field :descrition %>
+	<%= f.label :status, 'Status'%>
+	<%= f.check_box :status %>
+	<%= f.submit 'Editar' %>
+<% end %>
