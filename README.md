@@ -21,6 +21,6 @@
 - Gems
 - Bundle
 
-# Problemas e Soluções
+## Problemas e Soluções
 
 Todo programador passa por problemas, principalmente quem está começando. Para ajudar, estou documentando todos eles os nas [issues](https://github.com/Diana-ops/treinaDev_turma3/issues) 
