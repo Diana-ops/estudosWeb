@@ -12,7 +12,7 @@
 
 - [X] [Playlist](https://www.youtube.com/playlist?list=PLajdzeQ7QG3jS3yEBFkf7GsXvoSj6wuPY) de Orientacao a Objetos em Ruby: [codigo das aulas](https://github.com/Diana-ops/treinaDev_turma3/tree/master/playlist-ruby-oo)
 
-- [ ] [Playlist] de Lógica de Programação com Ruby: em breve
+- [ ] [Playlist](https://www.youtube.com/playlist?list=PLajdzeQ7QG3iXblkBah6Ffoaa7Idxn4cT) de Lógica de Programação com Ruby: em breve
 
 ## Recursos/Linguagens
 
