@@ -4,6 +4,8 @@
 
 ## Lista de projetos :checkered_flag:
 
+- [X] [Projeto](https://github.com/Diana-ops/Blog_Ruby) construido a partir da documentação [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html), disponivel apenas para dowload (pacote zip) 
+
 - [x] Antes das aulas, construimos um projeto para um [CookBook](https://github.com/Diana-ops/treinaDev_turma3/tree/master/code-saga-cookbook), só para aquecer :smile:
 
 - [ ] Projeto para aluguel de veiculos: [Rental Cars](https://github.com/Diana-ops/rental-cards) (em desenvolvimento)
