@@ -8,7 +8,7 @@
 
 - [x] Antes das aulas, construimos um projeto para um [CookBook](https://github.com/Diana-ops/treinaDev_turma3/tree/master/code-saga-cookbook), só para aquecer :smile:
 
-- [ ] Projeto para aluguel de veiculos: [Rental Cars](https://github.com/Diana-ops/rental-cards) (em desenvolvimento)
+- [ ] Projeto para aluguel de veiculos: [Rental Cars](https://github.com/Diana-ops/rental-cars-treina-dev-1) (em desenvolvimento)
 
 ## Lista de atividades :memo:
 
