@@ -25,4 +25,4 @@
 
 ## Problemas e Soluções :exclamation: 
 
-Todo programador passa por problemas, principalmente quem está começando. Para ajudar, estou documentando todos eles os nas [issues](https://github.com/Diana-ops/treinaDev_turma3/issues) 
+Todo programador passa por problemas, principalmente quem está começando. Para ajudar, estou documentando todos eles os nas [issues](https://github.com/Diana-ops/rental-cars-treina-dev-1/issues) 
