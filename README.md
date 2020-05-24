@@ -8,7 +8,7 @@
 
 - [x] Antes das aulas, construimos um projeto para um [CookBook](https://github.com/Diana-ops/treinaDev_turma3/tree/master/code-saga-cookbook), só para aquecer :smile:
 
-- [ ] Projeto para aluguel de veiculos: [Rental Cars](https://github.com/Diana-ops/rental-cars-treina-dev-1) (em desenvolvimento :warning:)
+- [X] Projeto para aluguel de veiculos: [Rental Cars](https://github.com/Diana-ops/rental-cars-treina-dev-1) 
 
 - [ ] Projeto Final da **primeira fase**: [Plataforma para Handhunters](https://github.com/Diana-ops/plataforma-headhunters-treina-dev) (em desenvolvimento :warning:)
 
@@ -20,10 +20,13 @@
 
 ## Recursos/Linguagens :school_satchel:
 
-- Ruby
-- Ruby on Rails
-- Gems
-- Bundle
+:books: Ruby
+
+:books: Ruby on Rails
+
+:books: Gems
+
+:books: Bundle
 
 ## Problemas e Soluções :exclamation: 
 
