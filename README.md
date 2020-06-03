@@ -10,7 +10,7 @@
 
 - [X] Projeto para aluguel de veiculos: [Rental Cars](https://github.com/Diana-ops/rental-cars-treina-dev-1) 
 
-- [X] Projeto Final da **primeira fase**: [Plataforma para Handhunters](https://github.com/Diana-ops/plataforma-headhunters-treina-dev) (em desenvolvimento :warning:)
+- [X] Projeto Final da **primeira fase**: [Plataforma para Handhunters](https://github.com/Diana-ops/plataforma-headhunters-treina-dev)
 
 ## Lista de atividades :memo:
 
