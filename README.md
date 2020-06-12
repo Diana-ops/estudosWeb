@@ -8,9 +8,15 @@
 
 - [x] Antes das aulas, construimos um projeto para um [CookBook](https://github.com/Diana-ops/treinaDev_turma3/tree/master/code-saga-cookbook), só para aquecer :smile:
 
-- [X] Projeto para aluguel de veiculos: [Rental Cars](https://github.com/Diana-ops/rental-cars-treina-dev-1) 
+| | |
+| :----: | :----: |
+| [Rental Cars](https://github.com/Diana-ops/rental-cars-treina-dev-1) | [Plataforma para Handhunters](https://github.com/Diana-ops/plataforma-headhunters-treina-dev) |
 
-- [X] Projeto Final da **primeira fase**: [Plataforma para Handhunters](https://github.com/Diana-ops/plataforma-headhunters-treina-dev)
+## Projetos/Desafios Extras :star:
+
+|[<img src="https://user-images.githubusercontent.com/46378210/84390462-04c73c00-abce-11ea-9a83-8655b3166796.png" alt="Titulo do Projeto" width="300"/>](https://github.com/reginadiana/new_api_task) | [<img src="https://user-images.githubusercontent.com/46378210/84443430-f7ce3b00-ac15-11ea-946b-9937fe8042ab.png" width="300">](https://github.com/reginadiana/search_IBGE) |
+| :----: | :----: |
+| [**Task Finisher** :memo:](https://github.com/reginadiana/new_api_task) | [**Search IBGE** :bar_chart:](https://github.com/reginadiana/search_IBGE) |
 
 ## Lista de atividades :memo:
 
@@ -20,13 +26,13 @@
 
 ## Recursos/Linguagens :school_satchel:
 
-:books: Ruby
+:books: &nbsp; Ruby
 
-:books: Ruby on Rails
+:books: &nbsp; Ruby on Rails
 
-:books: Gems
+:books: &nbsp; Gems
 
-:books: Bundle
+:books: &nbsp; Bundle
 
 ## Problemas e Soluções :exclamation: 
 
