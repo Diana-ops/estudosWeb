@@ -8,9 +8,9 @@
 
 - [x] Antes das aulas, construimos um projeto para um [CookBook](https://github.com/Diana-ops/treinaDev_turma3/tree/master/code-saga-cookbook), só para aquecer :smile:
 
-| | |
+| [<img src="https://user-images.githubusercontent.com/46378210/81428957-76295000-9133-11ea-910a-ccbdf88e32ba.png" width="300"/>](https://github.com/Diana-ops/rental-cars-treina-dev-1)| [<img src="https://user-images.githubusercontent.com/46378210/81453266-7ccdbc80-915f-11ea-9b07-fdfb166e60bd.png" width="300"/>](https://github.com/Diana-ops/plataforma-headhunters-treina-dev)|
 | :----: | :----: |
-| [Rental Cars](https://github.com/Diana-ops/rental-cars-treina-dev-1) | [Plataforma para Handhunters](https://github.com/Diana-ops/plataforma-headhunters-treina-dev) |
+| [**Rental Cars**](https://github.com/Diana-ops/rental-cars-treina-dev-1) | [**Plataforma para Handhunters**](https://github.com/Diana-ops/plataforma-headhunters-treina-dev) |
 
 ## Projetos/Desafios Extras :star:
 
@@ -24,15 +24,23 @@
 
 - [ ] [Playlist](https://www.youtube.com/playlist?list=PLajdzeQ7QG3iXblkBah6Ffoaa7Idxn4cT) de Lógica de Programação com Ruby: em breve
 
-## Recursos/Linguagens :school_satchel:
+## Conteúdo do treinamento :school_satchel:
 
 :books: &nbsp; Ruby
 
 :books: &nbsp; Ruby on Rails
 
-:books: &nbsp; Gems
+:books: &nbsp; Consumo de API's
 
-:books: &nbsp; Bundle
+:books: &nbsp; Testes de unidade e integração com Rspec e Capybara 
+
+:books: &nbsp; Manipulação de Arquivos 
+
+:books: &nbsp; Deploy das aplicações com Heroku
+
+:books: &nbsp; Organização do código
+
+:books: &nbsp; Boas práticas no uso do git
 
 ## Problemas e Soluções :exclamation: 
 
