@@ -18,6 +18,10 @@
 | :----: | :----: |
 | [**Task Finisher** :memo:](https://github.com/reginadiana/new_api_task) | [**Search IBGE** :bar_chart:](https://github.com/reginadiana/search_IBGE) |
 
+| [<img src="https://user-images.githubusercontent.com/46378210/91661366-e75d8c00-eab1-11ea-869d-7c597c4adde8.png" width="300">](https://github.com/reginadiana/search_ibge_old_school) |
+| :----: |
+| [**Search IBGE 2.0** :bar_chart:](https://github.com/reginadiana/search_ibge_old_school)|
+
 ## Lista de atividades :memo:
 
 - [X] [Playlist](https://www.youtube.com/playlist?list=PLajdzeQ7QG3jS3yEBFkf7GsXvoSj6wuPY) de Orientacao a Objetos em Ruby: [codigo das aulas](https://github.com/Diana-ops/treinaDev_turma3/tree/master/playlist-ruby-oo)
